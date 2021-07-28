@@ -1,4 +1,4 @@
-Aplikasi untuk menampilkan list dan detail dari film.
+**Aplikasi untuk menampilkan list dan detail dari film.**
 
 Architecture Component
   * ViewModel
