@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    tools:ignore="UseCompoundDrawables"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/tv_episode_number_custom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:text="@string/episode_number"/>
+
+    <TextView
+        android:id="@+id/tv_episode_title_custom"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="14dp"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:textSize="18sp"
+        tools:text="@string/episode" />
+
+    <TextView
+        android:id="@+id/tv_episode_realese_custom"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="14dp"
+        android:layout_weight="1"
+        android:textAlignment="textEnd"
+        android:ellipsize="end"
+        android:textSize="18sp"
+        tools:text="@string/realese"
+        tools:ignore="RtlCompat" />
+
+</LinearLayout>

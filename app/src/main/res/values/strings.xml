@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_activity_detail_series">Detail Series</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tvshow">TV Show</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="genres">Genres : </string>
+    <string name="realese">Realese : </string>
+    <string name="rating">Rating : </string>
+    <string name="start_watch">Detail Episode</string>
+    <string name="list_episode">Daftar Episode</string>
+    <string name="read_more">Selengkapnya</string>
+    <string name="episode">Episode</string>
+    <string name="share_text">Segera tonton series %s ini!</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+    <string name="share_title_text">Bagikan series ini ke teman mu!</string>
+    <string name="episode_number">1</string>
+    <string name="next">Selanjutnya</string>
+    <string name="prev">Sebelumnya</string>
+    <string name="message_cancel">Batal</string>
+    <string name="message_undo">Batalkan menghapus film favorite?</string>
+    <string name="category">Category</string>
+    <string name="poster_movie">Poster Movie</string>
+    <string name="poster_series">Poster Series</string>
+
+</resources>

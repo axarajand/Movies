@@ -1,2 +1,2 @@
-# Movies
-Movie List App
+# Movie Catalog API
+
